@@ -3,6 +3,7 @@
 
 
 The dataset can be found at: https://www.kaggle.com/datasets/fabianavinci/guitar-chords-v2
+
 Dependencies are in the requirements.txt
 
 Implementations of this project:
